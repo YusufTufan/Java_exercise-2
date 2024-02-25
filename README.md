@@ -1,2 +1,2 @@
 # Java_exercies-2
- En büyük sayıyı veren uygulama
+ Kullanıcıdan alınan 3 tane sayının en büyük olanını belirlemek için kullanılan yapı
