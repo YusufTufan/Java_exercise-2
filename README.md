@@ -1,21 +1,23 @@
-# En Büyük Sayı Bulma Programı
-Bu basit Java programı, kullanıcıdan alınan üç sayı arasından en büyüğünü bulur.
+# En Büyük Sayıyı Bulan Program
+Bu program, kullanıcının girdiği üç sayı arasından en büyük olanını bulur.
 
-## Kullanım
+## Nasıl Çalıştırılır
+1. Bu Java programını bilgisayarınıza indirin.
+2. Bir Java derleyicisi kullanarak programı derleyin (örneğin, `javac Buyuksayi.java`).
+3. Programı çalıştırın (`java Buyuksayi`).
+4. Program kullanıcıdan üç farklı sayı girmesini isteyecek.
+5. Kullanıcı üç sayıyı girdikten sonra, program en büyük sayıyı bulacak ve ekrana yazdıracak.
 
-1. Programı çalıştırdığınızda, size üç sayı girmeniz istenir.
-2. İlk sayıyı girin ve enter tuşuna basın.
-3. İkinci sayıyı girin ve enter tuşuna basın.
-4. Üçüncü sayıyı girin ve enter tuşuna basın.
-5. Program, girilen sayıların arasından en büyüğünü bulur ve sonucu ekrana yazdırır.
-
-## Örnek
-
+## Örnek Kullanım
 ```
+$ java Buyuksayi
 Lütfen ilk sayıyı giriniz:
-10
-Lütfen ikinci sayıyı giriniz:
 5
+Lütfen ikinci sayıyı giriniz:
+12
 Lütfen üçüncü sayıyı giriniz:
 8
-En büyük sayı: 10
+En büyük sayı: 12
+```
+
+Bu README dosyası, projenin amacını, nasıl kullanılacağını ve lisans bilgilerini içerir. Umarım işinize yarar!
